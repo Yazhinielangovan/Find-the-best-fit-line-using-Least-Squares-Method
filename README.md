@@ -51,6 +51,7 @@ plt.show()
 
 ```
 
+
 ## Output:
 ![image](https://github.com/Yazhinielangovan/Find-the-best-fit-line-using-Least-Squares-Method/assets/155508323/241b17e9-d149-4650-ab2b-04de46f5f129)
 
